@@ -292,6 +292,7 @@ pub struct ConnectorConfig {
     pub envoy: Option<ConnectorTomlConfig>,
     pub facilitapay: Option<ConnectorTomlConfig>,
     pub finix: Option<ConnectorTomlConfig>,
+    pub fintechco: Option<ConnectorTomlConfig>,
     pub fiserv: Option<ConnectorTomlConfig>,
     pub fiservcommercehub: Option<ConnectorTomlConfig>,
     pub fiservemea: Option<ConnectorTomlConfig>,

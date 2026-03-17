@@ -57,6 +57,7 @@ pub struct Connectors {
     pub envoy: ConnectorParams,
     pub facilitapay: ConnectorParams,
     pub finix: ConnectorParams,
+    pub fintechco: ConnectorParams,
     pub fiserv: ConnectorParams,
     pub fiservcommercehub: ConnectorParams,
     pub fiservemea: ConnectorParams,

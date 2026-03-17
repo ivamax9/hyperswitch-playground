@@ -106,6 +106,7 @@ pub enum Connector {
     Elavon,
     Facilitapay,
     Finix,
+    Fintechco,
     Fiserv,
     Fiservemea,
     Fiservcommercehub,

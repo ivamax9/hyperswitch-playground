@@ -43,6 +43,7 @@ pub mod elavon;
 pub mod envoy;
 pub mod facilitapay;
 pub mod finix;
+pub mod fintechco;
 pub mod fiserv;
 pub mod fiservcommercehub;
 pub mod fiservemea;
@@ -181,4 +182,5 @@ pub use self::{
     wellsfargo::Wellsfargo, wellsfargopayout::Wellsfargopayout, wise::Wise, worldline::Worldline,
     worldpay::Worldpay, worldpaymodular::Worldpaymodular, worldpayvantiv::Worldpayvantiv,
     worldpayxml::Worldpayxml, xendit::Xendit, zen::Zen, zift::Zift, zsl::Zsl,
+ fintechco::Fintechco,
 };
